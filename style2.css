@@ -1,0 +1,30 @@
+*{
+    background-image: url(image/aaa.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    width: auto;
+  
+}
+.div1,
+.div2,
+.div3 {
+    width: 280px;
+    height: auto;
+    border: 1px solid #000;
+    margin: 10px 0 5px 8px ;
+    padding: 20px;
+}
+.div1{
+    color:#000;
+    background-size:contain;
+    background: inherit;
+    background-image: url(image/A.jpeg);
+}
+.div2,
+.div3{
+    color: #fff;
+    background-image: url(image/aaa.jpeg);
+    
+}
